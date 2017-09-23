@@ -1,2 +1,2 @@
 # Dashboard Frame
-Used HTML,CSS,Botstrap
+Developed Using Basic HTML,CSS,Botstrap,JS
